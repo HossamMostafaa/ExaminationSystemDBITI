@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\martina\\ITI\\General\\sqlproject\\SQLprojectfinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7109F1-2029-1E1A-6E44-94F285245409}|SQLprojectfinal\\SQLprojectfinal.ssmssqlproj|D:\\martina\\ITI\\General\\sqlproject\\SQLprojectfinal\\SQLprojectfinal\\SQLQuery1.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{AC7109F1-2029-1E1A-6E44-94F285245409}|SQLprojectfinal\\SQLprojectfinal.ssmssqlproj|solutionrelative:SQLprojectfinal\\SQLQuery1.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql - (local).ExaminationSystemDB (DESKTOP-8O2T4D2\\Martina (52))",
+              "DocumentMoniker": "D:\\martina\\ITI\\General\\sqlproject\\SQLprojectfinal\\SQLprojectfinal\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLprojectfinal\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql - (local).ExaminationSystemDB (DESKTOP-8O2T4D2\\Martina (52))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-02T13:37:15.574Z",
+              "EditorCaption": " - (local).ExaminationSystemDB (DESKTOP-8O2T4D2\\Martina (52))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
